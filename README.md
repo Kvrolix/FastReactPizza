@@ -3,6 +3,8 @@
 
 The **Fast React Pizza Co.** is an interactive pizza ordering application built with React and Redux Toolkit. It offers a seamless experience for browsing menus, managing carts, placing orders, and tracking order status.
 
+![appShowcase](assets/FastReactPizzaGif.gif)
+
 ---
 
 ## 🚀 Features
@@ -54,7 +56,7 @@ The **Fast React Pizza Co.** is an interactive pizza ordering application built 
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/fast-react-pizza-co.git
+git clone https://github.com/your-username/fast-react-pizza.git
 ```
 
 ### **2. Install Dependencies**
@@ -87,6 +89,21 @@ The application will be available at `http://localhost:3000`.
 - Enable multiple payment options.
 - Introduce a feature for customer reviews.
 
+---
+
+## 📷 Screenshots  
+
+![start](assets/image1.PNG)
+
+![app](assets/image2.PNG)
+
+![app1](assets/image3.PNG)
+
+![app2](assets/image4.PNG)
+
+![app3](assets/image5.PNG)
+
+![app4](assets/image6.PNG)
 
 ---
 
