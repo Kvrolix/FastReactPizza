@@ -87,9 +87,17 @@ The application will be available at `http://localhost:3000`.
 - Enable multiple payment options.
 - Introduce a feature for customer reviews.
 
+
 ---
 
-## 📜 License
+## 📝 License
 
-This project is licensed under the [MIT License](LICENSE).
-```
+This project is based on the coursework and tasks provided in the [Jonas Schmedtmann](https://codingheroes.io/) course titled *The Ultimate React Course 2024: React, Next.js, Redux & More*
+
+(available on Udemy). The course materials, including designs, flowcharts, and assets, remain the intellectual property of Jonas Schmedtmann.
+
+The implementation, including all code, solutions, and modifications in this repository, was written independently by me as part of my learning journey. This repository is intended solely for educational and portfolio purposes.
+
+If you are interested in the original course materials or would like to support the instructor, please visit [Jonas Schmedtmann's website](https://codingheroes.io/) or his [Udemy profile](https://www.udemy.com/user/jonasschmedtmann/).
+
+---
